@@ -26,3 +26,6 @@ pip install -r requirements.txt
 ## Models
 Complexity prediction model can be found in folder models/complexity-prediction-model \
 Chat assistant model can be found by the [link](https://drive.google.com/drive/folders/1BuhcsJ9mRvY-EFTU9l7ReD4yqZypZJ3i?usp=sharing)
+
+## Project Report
+Full report is in report folder
