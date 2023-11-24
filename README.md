@@ -21,7 +21,7 @@ git clone https://github.com/damurka5/gai_project.git
 cd gai_project
 # Install dependencies
 pip install -r requirements.txt
-
+```
 
 ## Models
 Complexity prediction model can be found in folder models/complexity-prediction-model
